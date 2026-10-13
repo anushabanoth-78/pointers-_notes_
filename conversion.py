@@ -36,11 +36,20 @@ number =input("Enter a number:");
 number_1=int(number)
 print(number_1)
 print(type(number_1))
-"""
+
+
 number_1=int(input("Enter a number :"));
 number_2=int(input("enter a number:"));
 sum=number_1+number_2
 
 print(sum)
 print(type(sum))
+"""
+
+number_1=float(input("Enter a number"));
+number_2=float(input("Enter a number"));
+sum=number_1+number_2
+print(sum)
+print(type(sum))
+
 
